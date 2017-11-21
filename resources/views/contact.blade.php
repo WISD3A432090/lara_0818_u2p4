@@ -1,4 +1,8 @@
+@extends('layouts.master')
 
+@section('title', 'Clean Blog - Contact')
+
+@section('content')
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
     <header class="intro-header" style="background-image: url('img/contact-bg.jpg')">
@@ -64,5 +68,5 @@
         </div>
     </div>
 
-    <hr>
 
+@endsection

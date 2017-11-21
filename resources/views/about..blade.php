@@ -1,4 +1,8 @@
+@extends('layouts.master')
 
+@section('title', 'Clean Blog - About')
+
+@section('content')
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
@@ -27,6 +31,6 @@
         </div>
     </div>
 
-    <hr>
 
+@endsection
 
